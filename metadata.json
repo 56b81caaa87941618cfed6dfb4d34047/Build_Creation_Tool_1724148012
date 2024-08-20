@@ -4,5 +4,6 @@
     "project_description": "an app for making the build",
     "creation_time": "2024-08-20 10:00:12.611431",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a vibrant, cosmic landscape with a dominant pink and purple color scheme, featuring a large, glowing planet, smaller celestial bodies, and jagged mountains reflecting in a tranquil body of water. The style is surreal and fantastical, emphasizing a dreamy and otherworldly atmosphere."
 }
