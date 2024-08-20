@@ -12,5 +12,11 @@
         "content": "add a button with text Free",
         "timestamp": "20082024100107",
         "message_id": "c1af12d08a8847e1b837d94f84214964"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Making progress on adding button with \"Free\" text.",
+        "timestamp": "20082024100107",
+        "message_id": "aa85772a6cab4fbca36ded046af61029"
     }
 ]
